@@ -1,7 +1,7 @@
 Yahtzee is a chance-and-strategy dice rolling game. A game is played over 13 rounds.
 
 - Rolling animation
-= Game rules and resctictions
+- Game rules and restrictions
 - React, FontAwesome
 - Mobile responsive
 - App is created during bootcamp on Udemy
